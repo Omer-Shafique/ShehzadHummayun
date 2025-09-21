@@ -1,0 +1,3 @@
+# Ignore all mp4, zip, big files
+*.mp4
+*.zip

@@ -1,0 +1,1 @@
+function livecartCartInUse(){var allCookies=document.cookie.split(";");for(var i=0;i<allCookies.length;i++){var cookie=allCookies[i].split("=");if("woocommerce_items_in_cart"===cookie[0].trim()&&cookie[1]!==0){return true}}return false}if(livecartCartInUse()){var script=document.createElement("script");script.src=livecartCartFragments.scriptPath;document.body.appendChild(script)}

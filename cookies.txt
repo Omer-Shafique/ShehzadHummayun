@@ -1,0 +1,27 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+simonsinek.com	TRUE	/wp-content/plugins	FALSE	1999999999	wordpress_1adc207620e60c8527229cec454ba4f6	%20
+simonsinek.com	TRUE	/wp-content/plugins	FALSE	1999999999	wordpress_sec_1adc207620e60c8527229cec454ba4f6	%20
+simonsinek.com	TRUE	/wp-admin	FALSE	1999999999	wordpress_1adc207620e60c8527229cec454ba4f6	%20
+simonsinek.com	TRUE	/wp-admin	FALSE	1999999999	wordpress_sec_1adc207620e60c8527229cec454ba4f6	%20
+.hsforms.net	TRUE	/	FALSE	1999999999	__cf_bm	lS.gCI8CO6ydoJzY6_fslWDFbFRwnxQp91IkP1y4Cqw-1758470117-1.0.1.1-1vPCNGV7RApw6XSZ4doa_b5D7X2vH54sInlc2C0Gq6412x5PXniRUJHVmLoomiAC3rmwSD_rWBvF2t3JkdgsxciS9fOYTo9fuOMMUJwLHfk
+simonsinek.com	TRUE	/	FALSE	1999999999	wordpress_logged_in_1adc207620e60c8527229cec454ba4f6	%20
+simonsinek.com	TRUE	/	FALSE	1999999999	wp-settings-0	%20
+simonsinek.com	TRUE	/	FALSE	1999999999	wp-settings-time-0	%20
+simonsinek.com	TRUE	/	FALSE	1999999999	wordpress_1adc207620e60c8527229cec454ba4f6	%20
+simonsinek.com	TRUE	/	FALSE	1999999999	wordpress_sec_1adc207620e60c8527229cec454ba4f6	%20
+simonsinek.com	TRUE	/	FALSE	1999999999	wordpressuser_1adc207620e60c8527229cec454ba4f6	%20
+simonsinek.com	TRUE	/	FALSE	1999999999	wordpresspass_1adc207620e60c8527229cec454ba4f6	%20
+simonsinek.com	TRUE	/	FALSE	1999999999	wp-postpass_1adc207620e60c8527229cec454ba4f6	%20
+simonsinek.com	TRUE	/	FALSE	1999999999	ka_sac_custom_session_set	0
+simonsinek.com	TRUE	/	FALSE	1999999999	wpmudev_is_staff	deleted
+.hs-scripts.com	TRUE	/	FALSE	1999999999	__cf_bm	4Mp6DVm2_GvovZIlRjiZWYG.AG7Wt8zOCEfs3D39DGk-1758471254-1.0.1.1-OWA4.YW2MZtyf.Cn29pYx70SVORNtJpx_4S97nz.GkuCSdKX3PldPO_tWDbPwBPYd99VsPe44yQ.NezuqapEsB1j1utKJ6pqh0rOKfxMSto
+simonsinek.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+simonsinek.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	820c6a6df1fd76f67bf65c6849a3eac0
+simonsinek.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_1adc207620e60c8527229cec454ba4f6	t_2defae2539f653ee2add10cee3af3f%7C1758645114%7C1758558714%7C%24generic%24AGIgKJM8OoqB3DqAkVFyFiUThTXQdWnEq2F2fhBS
+.simonsinek.com	TRUE	/	FALSE	1999999999	__cf_bm	zZHOGph5mwhAKivUoV569c.olxSiHzT1dQVkPlz6chw-1758473575-1.0.1.1-XGeu8G59eZxK8LGYG5JURvUpIn0YROQj61p0i3tuDaWsJRB138xCvYua3wsKoKa6a5mctHY2SAfOBK4g0xKKE27ym49XIJYQvbpZRiS7PsY
+simonsinek.com	TRUE	/	FALSE	1999999999	SameSite	None
+services.sheerid.com	TRUE	/	FALSE	1999999999	AWSALB	RsscM0KewyDkB8pV8YUFBqcj+xahLPjStiev/zdHaLiWOMx/0IWUNNaD7errUgOAGs4bkXIT+z3UBb4irutab9Nn0C42o5QOVEBN3SyVnU5mdTw5BcUhuGSMBzlc
+services.sheerid.com	TRUE	/	FALSE	1999999999	AWSALBCORS	RsscM0KewyDkB8pV8YUFBqcj+xahLPjStiev/zdHaLiWOMx/0IWUNNaD7errUgOAGs4bkXIT+z3UBb4irutab9Nn0C42o5QOVEBN3SyVnU5mdTw5BcUhuGSMBzlc
+services.sheerid.com	TRUE	/	FALSE	1999999999	SameSite	None
+
